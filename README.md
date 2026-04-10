@@ -2,7 +2,7 @@
 
 🔗 **Published Abstract:**  
 STEM Fellowship Journal (Student Research Institute issue), **p. 132**  
-[[Insert link to abstract here]](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj1201)
+https://journal.stemfellowship.org/doi/pdf/10.17975/sfj1201
 
 ---
 
