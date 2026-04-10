@@ -1,5 +1,6 @@
 # Anti-CD19 CAR T-Cell Therapy for Systemic Lupus Erythematosus (SLE): A Scoping Review
 
+Harvard OpenBio Summer 2025 High School Mentorship Program
 🔗 Published abstract (p. 132):  
 https://journal.stemfellowship.org/doi/pdf/10.17975/sfj1201
 
@@ -27,7 +28,7 @@ The study synthesizes clinical evidence from case reports and pilot studies to a
 ## Manuscript
 
 View full manuscript:
-
+https://github.com/aaronc09/anti-cd19-car-t-sle-scoping-review/blob/a5e90962633d0de8c8ef3fb628e2edffab989915/full_manuscript.pdf
 
 ---
 
@@ -63,7 +64,6 @@ View full manuscript:
 
 Aaron Choi  
 Northern Valley Regional High School Old Tappan  
-Harvard OpenBio Summer 2025 Program  
 
 Landon Clark  
 Vanderbilt University School of Medicine  
