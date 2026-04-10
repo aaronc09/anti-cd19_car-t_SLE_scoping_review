@@ -5,6 +5,12 @@ https://journal.stemfellowship.org/doi/pdf/10.17975/sfj1201
 
 ---
 
+## Affiliation
+
+This work was conducted as part of the Harvard OpenBio Summer 2025 Program (Student Research Institute), which supports student-led research through mentorship and structured academic guidance.
+
+---
+
 ## Overview
 This repository contains the full manuscript and supporting documentation for a scoping review evaluating Anti-CD19 CAR T-cell therapy as a potential treatment for systemic lupus erythematosus (SLE).
 
@@ -22,12 +28,6 @@ The study synthesizes clinical evidence from case reports and pilot studies to a
 
 View full manuscript:
 
-
----
-
-## Affiliation
-
-This work was conducted as part of the Harvard OpenBio Summer 2025 Program (Student Research Institute), which supports student-led research through mentorship and structured academic guidance.
 
 ---
 
