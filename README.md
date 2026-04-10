@@ -1,6 +1,7 @@
 # Anti-CD19 CAR T-Cell Therapy for Systemic Lupus Erythematosus (SLE): A Scoping Review
 
 Harvard OpenBio Summer 2025 High School Mentorship Program
+
 Published abstract (p. 132):  
 https://journal.stemfellowship.org/doi/pdf/10.17975/sfj1201
 
